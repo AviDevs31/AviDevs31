@@ -7,13 +7,31 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on [Minecraft-Launcher-V1](https://github.com/HappyRogelio7/Minecraft-Launcher-V1)
+
+- 🌱 I’m currently learning **Html,Css,Js,Python**
+
+- 👯 I’m looking to collaborate on [Minecraft-Launcher-V1](https://github.com/HappyRogelio7/Minecraft-Launcher-V1)
+
+- 🤝 I’m looking for help with [Minecraft-Launcher-V1](https://github.com/HappyRogelio7/Minecraft-Launcher-V1)
+
+- 📝 I regularly write articles on [https://cristofer3121.blogspot.com/](https://cristofer3121.blogspot.com/)
+
+- 💬 Ask me about **Html,Css,Js,Python**
+
+- 📫 How to reach me **laparca54e@gmail.com**
+
+- ⚡ Fun fact **No se Programar :C Estoy Aprendiendo**
+
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/avidevs31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="avidevs31" height="30" width="40" /></a>
 <a href="https://dev.to/avidevs31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="avidevs31" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@user-ud5tn3fu9l" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@user-ud5tn3fu9l" height="30" width="40" /></a>
 <a href="https://discord.gg/cristofer_89390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="cristofer_89390" height="30" width="40" /></a>
 </p>
 
